@@ -1,5 +1,4 @@
 # Uber_ride_prediction
-# Uber Ride Prediction
 
 ## Description
 This project predicts the number of weekly rides using machine learning. It utilizes a trained model to estimate demand based on input features.
